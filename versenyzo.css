@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap" rel="stylesheet');
+html {
+    height: 100%;
+    margin: 0px;
+
+
+}
+body {
+    background-image: url("hatter.jpg");
+    font-family:'Indie Flower', cursive;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    background-color: white;
+
+}
